@@ -10,7 +10,6 @@ public class CreateFolderStream {
 
 		folder.mkdir();
 		folder2.mkdir();
-
 		/*
 		 * folder.delete(); folder2.delete();
 		 */
