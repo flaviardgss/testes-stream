@@ -13,6 +13,6 @@ public class CreateFileStream {
 		} catch (IOException ex) {
 
 		}
-		// file.delete();
+		// file.delete(); apenas para deletar o arquivo criado
 	}
 }
